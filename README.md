@@ -1,4 +1,3 @@
-# Castle_Game
-Linnakkeen puolustuspeli python pygame:lla toteutettuna
+# Castle Game
+This is for practising Python game developement, still in progress..
 
-# Plan is to make this file some kind of instruction file
